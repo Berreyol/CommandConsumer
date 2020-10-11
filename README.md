@@ -5,5 +5,5 @@ Just run
 ```.NET
 dotnet run
 ```
-inside the proyect dir
+inside the project dir
 
