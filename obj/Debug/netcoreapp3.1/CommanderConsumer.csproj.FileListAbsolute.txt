@@ -1,0 +1,17 @@
+/home/berre/CommanderConsumer/obj/Debug/netcoreapp3.1/CommanderConsumer.csprojAssemblyReference.cache
+/home/berre/CommanderConsumer/obj/Debug/netcoreapp3.1/CommanderConsumer.AssemblyInfoInputs.cache
+/home/berre/CommanderConsumer/obj/Debug/netcoreapp3.1/CommanderConsumer.AssemblyInfo.cs
+/home/berre/CommanderConsumer/obj/Debug/netcoreapp3.1/CommanderConsumer.csproj.CoreCompileInputs.cache
+/home/berre/CommanderConsumer/bin/Debug/netcoreapp3.1/CommanderConsumer
+/home/berre/CommanderConsumer/bin/Debug/netcoreapp3.1/CommanderConsumer.deps.json
+/home/berre/CommanderConsumer/bin/Debug/netcoreapp3.1/CommanderConsumer.runtimeconfig.json
+/home/berre/CommanderConsumer/bin/Debug/netcoreapp3.1/CommanderConsumer.runtimeconfig.dev.json
+/home/berre/CommanderConsumer/bin/Debug/netcoreapp3.1/CommanderConsumer.dll
+/home/berre/CommanderConsumer/bin/Debug/netcoreapp3.1/CommanderConsumer.pdb
+/home/berre/CommanderConsumer/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+/home/berre/CommanderConsumer/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/berre/CommanderConsumer/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/home/berre/CommanderConsumer/obj/Debug/netcoreapp3.1/CommanderConsumer.csproj.CopyComplete
+/home/berre/CommanderConsumer/obj/Debug/netcoreapp3.1/CommanderConsumer.dll
+/home/berre/CommanderConsumer/obj/Debug/netcoreapp3.1/CommanderConsumer.pdb
+/home/berre/CommanderConsumer/obj/Debug/netcoreapp3.1/CommanderConsumer.genruntimeconfig.cache
